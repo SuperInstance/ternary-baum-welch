@@ -1,4 +1,6 @@
 [package]
+description = "ternary-baum-welch - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-baum-welch"
 name = "ternary-baum-welch"
 version = "0.1.0"
 edition = "2024"
